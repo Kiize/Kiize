@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 -  📌 I'm based in Pisa, Tuscany, Italy
 -  🔭 I have a BSc degree in Physics
 -  📊 Studying for MSc degree in Theoretical Physics
+-  💬 Ask me about any repo you find interesting
 
 
   <br />
