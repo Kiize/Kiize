@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Kiize
-  <img align="right" alt="GIF" src="https://github.com/Kiize/Kiize/blob/main/asuka-angry.gif" width="420" height="270" />
+  <img align="right" alt="GIF" src="https://github.com/Kiize/Kiize/blob/main/asuka-angry.gif" width="220" height="331" />
   <br />
   <br />
   
