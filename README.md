@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kiize&show_icons=true&theme=nord" width="420" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kiize&show_icons=true&theme=radical" width="420" />
 </a>
