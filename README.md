@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Kiize
-  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiize&layout=compact&theme=radical" width="370"/>
+</a>
+
 -  📌 I'm based in Pisa, Tuscany, Italy
 -  🔭 I have a BSc degree in Physics
 -  📊 Studying for MSc degree in Theoretical Physics
@@ -26,9 +29,7 @@ Here are some ideas to get you started:
 
   <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiize&layout=compact&theme=radical" width="370"/>
-</a>
+
 
 
 <a href="https://github.com/anuraghazra/convoychat">
