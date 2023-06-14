@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Kiize
-  <img align="left" alt="GIF" src="https://github.com/Kiize/Kiize/blob/main/asuka-angry.gif" width="220" height="331" />
-  <br />
-  <br />
   
 -  📌 I'm based in Pisa, Tuscany, Italy
 -  🔭 I have a BSc degree in Physics
 -  📊 Studying for MSc degree in Theoretical Physics
 -  💬 Ask me about any repo you find interesting
-
+  <img align="left" alt="GIF" src="https://github.com/Kiize/Kiize/blob/main/asuka-angry.gif" width="220" height="331" />
+  <br />
+  <br />
 
   <br />
 
