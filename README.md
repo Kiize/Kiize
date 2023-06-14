@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Kiize
-  <img align="right" alt="GIF" src="https://github.com/Kiize/Kiize/blob/main/asuka-angry.gif" width="220" height="331" />
+  <img align="left" alt="GIF" src="https://github.com/Kiize/Kiize/blob/main/asuka-angry.gif" width="220" height="331" />
   <br />
   <br />
   
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiize&layout=compact&theme=radical" width="370"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiize&layout=compact&theme=radical" width="370"/>
 </a>
 
 
