@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <br />
 
   <br />
-  <img align="right" alt="GIF" src="https://github.com/Kiize/Kiize/blob/main/pino-ergo-proxy.gif" width="280"/>
+ <!-- <img align="right" alt="GIF" src="https://github.com/Kiize/Kiize/blob/main/pino-ergo-proxy.gif" width="280"/> -->
 
 
 
