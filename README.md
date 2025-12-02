@@ -28,6 +28,6 @@ Here are some ideas to get you started:
   <br />
   <p>
  <!-- <img align="right" alt="GIF" src="https://github.com/Kiize/Kiize/blob/main/pino-ergo-proxy.gif" width="280"/> -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiize&layout=compact&theme=radical" width = 375 href="https://github.com/anuraghazra/convoychat"/>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiize&layout=compact&theme=radical" width = 375 href="https://github.com/anuraghazra/convoychat"/> -->
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kiize&show_icons=true&theme=radical" width = 500 /> -->
  </p>
