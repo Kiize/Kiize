@@ -1,36 +1,27 @@
-<!--
-**Kiize/Kiize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Kiize</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img alt="Always learning"
+       src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Always+learning" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Kiize
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+learning" alt="Typing SVG" /></a>
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img align="right" width="600"
-       src="https://github-stats-extended.vercel.app/api?username=Kiize&theme=radical&show_icons=true&include_all_commits=true"/>
-  <img align="right" width="450"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kiize&theme=radical&layout=compact&langs_count=8" alt="Linguaggi più usati da Kiize" />
-</a>
+<p align="center">
+  📌 &nbsp;Pisa, Tuscany, Italy
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🔭 &nbsp;MSc degree in Physics
+</p>
 
--  📌 I'm based in Pisa, Tuscany, Italy
--  🔭 I have a MSc degree in Physics
--  💬 Ask me about any repo you find interesting
-  
-  <br />
-  <br />
-  <br />
-  <br />
-  <p>
- <!-- <img align="right" alt="GIF" src="https://github.com/Kiize/Kiize/blob/main/pino-ergo-proxy.gif" width="280"/> -->
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiize&layout=compact&theme=radical" width = 375 href="https://github.com/anuraghazra/convoychat"/> -->
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kiize&show_icons=true&theme=radical" width = 500 /> -->
- </p>
+<br />
+
+<p align="center">
+  <img height="180" alt="Statistiche GitHub di Kiize"
+       src="https://github-stats-extended.vercel.app/api?username=Kiize&theme=radical&show_icons=true&include_all_commits=true" />
+  <img height="180" alt="Linguaggi più usati da Kiize"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kiize&theme=radical&layout=compact&langs_count=8&card_width=320" />
+</p>
+
+<br />
+
+<p align="center">
+  💬 &nbsp;<i>Ask me about any repo you find interesting</i>
+</p>
