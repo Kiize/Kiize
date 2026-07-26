@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/stats-organization/github-stats-extended">
   <img align="right" width="600"
        src="https://github-stats-extended.vercel.app/api?username=Kiize&theme=radical&show_icons=true&include_all_commits=true"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kiize&theme=radical&layout=compact&langs_count=8" alt="Linguaggi più usati da Kiize" />
+  <img align="right" width="450"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kiize&theme=radical&layout=compact&langs_count=8" alt="Linguaggi più usati da Kiize" />
 </a>
 
 -  📌 I'm based in Pisa, Tuscany, Italy
