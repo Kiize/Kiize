@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 # Kiize
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Always+learning" alt="Typing SVG" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kiize&theme=radical" width="600"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img align="right" width="600"
+       src="https://github-stats-extended.vercel.app/api?username=Kiize&theme=radical&show_icons=true&include_all_commits=true"/>
 </a>
 
 -  📌 I'm based in Pisa, Tuscany, Italy
